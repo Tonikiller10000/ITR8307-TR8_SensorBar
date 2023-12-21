@@ -8,8 +8,8 @@ The ITR8307 sensor contain an IR led witch send\`s infrared ligth to an object a
 
 <table>
   <tr>
-    <td><img src="https://github.com/Tonikiller10000/ITR8307-TR8_SensorBar/blob/main/SensorBar_Pictures/IR1.png"/></td>
-    <td><img src="https://github.com/Tonikiller10000/ITR8307-TR8_SensorBar/blob/main/SensorBar_Pictures/assembly1.jpg"/></td>
+    <td><img src="https://github.com/Tonikiller10000/ITR8307-TR8_SensorBar/blob/main/SensorBar_Pictures/IR1.png"/></td width=50%>
+    <td><img src="https://github.com/Tonikiller10000/ITR8307-TR8_SensorBar/blob/main/SensorBar_Pictures/assembly1.jpg"/></td width=50%>
   </tr>
  </table>
 
