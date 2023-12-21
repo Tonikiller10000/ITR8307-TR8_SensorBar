@@ -9,11 +9,11 @@ The ITR8307 sensor contain an IR led witch send\`s infrared ligth to an object a
 
 I added an 220R resistor to the internal IR LED and an 10K resistor to the photroresistor to create an voltage devider witch return values from 0 to 5v in function of the distance between the sensor and the object. 
 
-<img src="https://github.com/Tonikiller10000/ITR8307-TR8_SensorBar/blob/main/SensorBar_Pictures/assembly1.jpg"/>
+
 
 <table>
   <tr>
-    <td><img src="https://github.com/Tonikiller10000/ITR8307-TR8_SensorBar/blob/main/SensorBar_Pictures/bar3.jpg"/></td>
+    <td><img src="https://github.com/Tonikiller10000/ITR8307-TR8_SensorBar/blob/main/SensorBar_Pictures/assembly1.jpg"/></td width=40%>
     <td><img src="https://github.com/Tonikiller10000/ITR8307-TR8_SensorBar/blob/main/SensorBar_Pictures/assembly2.jpg"/></td>
     <td><img src="https://github.com/Tonikiller10000/ITR8307-TR8_SensorBar/blob/main/SensorBar_Pictures/bar1.jpg"/></td>
     <td><img src="https://github.com/Tonikiller10000/ITR8307-TR8_SensorBar/blob/main/SensorBar_Pictures/bar2.jpg"/></td>
