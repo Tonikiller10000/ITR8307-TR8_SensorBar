@@ -14,10 +14,8 @@ The sensor bar was made with only one PCB layer and was meant to be used in the 
 
 I added an 220R resistor to the internal IR LED and an 10K resistor to the photroresistor to create an voltage devider witch return values from 0 to 5v in function of the distance between the sensor and the object. 
 
-<img src="https://github.com/Tonikiller10000/ITR8307-TR8_SensorBar/blob/main/SensorBar_Pictures/assembly1.jpg"/>
 <img src="https://github.com/Tonikiller10000/ITR8307-TR8_SensorBar/blob/main/SensorBar_Pictures/assembly2.jpg"/>
-<img src="https://github.com/Tonikiller10000/ITR8307-TR8_SensorBar/blob/main/SensorBar_Pictures/bar1.jpg"/>
-<img src="https://github.com/Tonikiller10000/ITR8307-TR8_SensorBar/blob/main/SensorBar_Pictures/bar2.jpg"/>
+<img src="https://github.com/Tonikiller10000/ITR8307-TR8_SensorBar/blob/main/SensorBar_Pictures/assembly1.jpg"/>
 
 Links:
 - ITR8307-TR8: https://pdf1.alldatasheet.com/datasheet-pdf/view/105612/EVERLIGHT/ITR8307.html
