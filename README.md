@@ -15,6 +15,10 @@ I added an 220R resistor to the internal IR LED and an 10K resistor to the photr
 <img src="https://github.com/Tonikiller10000/ITR8307-TR8_SensorBar/blob/main/SensorBar_Pictures/assembly2.jpg"/>
 <img src="https://github.com/Tonikiller10000/ITR8307-TR8_SensorBar/blob/main/SensorBar_Pictures/assembly1.jpg"/>
 
+<img src="https://github.com/Tonikiller10000/ITR8307-TR8_SensorBar/blob/main/SensorBar_Pictures/se.png"/>
+<img src="https://github.com/Tonikiller10000/ITR8307-TR8_SensorBar/blob/main/SensorBar_Pictures/se1.png"/>
+
+
 Links:
 - ITR8307-TR8: https://pdf1.alldatasheet.com/datasheet-pdf/view/105612/EVERLIGHT/ITR8307.html
 - Code for testing: https://github.com/Tonikiller10000/ITR8307-TR8_SensorBar/tree/main/SensorBarTesting
