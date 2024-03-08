@@ -2,8 +2,9 @@
 ## An 8 sensor sensor bar using ITR8307-TR8 SMD sensors.
 The sensor bar was made with the ITR8307-TR8 smd sensors on only one PCB layer and was meant to be used in the Linefollower project to detect a black line on the white surface. 
 
-<img src="https://github.com/Tonikiller10000/ITR8307-TR8_SensorBar/blob/main/SensorBar_Pictures/bar1.jpg"/>
 <img src="https://github.com/Tonikiller10000/ITR8307-TR8_SensorBar/blob/main/SensorBar_Pictures/se1.png"/>
+<img src="https://github.com/Tonikiller10000/ITR8307-TR8_SensorBar/blob/main/SensorBar_Pictures/bar1.jpg"/>
+
 
 ### How it works:
 
