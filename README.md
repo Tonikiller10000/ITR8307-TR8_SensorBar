@@ -24,11 +24,10 @@ Links:
 - ITR8307-TR8: https://pdf1.alldatasheet.com/datasheet-pdf/view/105612/EVERLIGHT/ITR8307.html
 - Code for testing: https://github.com/Tonikiller10000/ITR8307-TR8_SensorBar/tree/main/SensorBarTesting
 - Assenmbly: https://github.com/Tonikiller10000/ITR8307-TR8_SensorBar/blob/main/SensorBar_Pictures/assembly1.jpg
-
-
-
-
-
+- QRE1113GR(sensor alternative): https://www.pololu.com/file/0J117/QRE1113GR.pdf
+- Bar 3D view schematic: https://www.pololu.com/file/0J1288/qtr-8x-reflectance-sensor-array-dimensions.pdf 
+- Polulu sensor bar buy: https://www.pololu.com/product/960
+- Pololu - QTR-8A and QTR-8RC Reflectance Sensor Array User's Guide: https://www.pololu.com/docs/pdf/0J12/QTR-8x.pdf
 
 
 
